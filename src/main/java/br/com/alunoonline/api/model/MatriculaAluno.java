@@ -33,5 +33,4 @@ public class MatriculaAluno implements Serializable {
     @Enumerated(EnumType.STRING)
     private MatriculaAlunoStatusEnum status;
 
-
 }
